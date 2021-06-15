@@ -1,0 +1,137 @@
+.body{
+    background-color: #fafafa;
+}
+
+.nav-top{
+    height: 54px;
+    background-color: white;
+    border-top: 0.5px solid #dbdbdb;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.container-nav{
+    display: flex;
+    /* background-color: red; */
+    max-width: 975px;
+    flex-wrap: nowrap !important;
+}
+
+.div-logo{
+    display: flex;
+    /* background-color: green; */
+    padding-top: 4px;
+    width: 360px;
+
+}
+
+.div-form-nav{
+    display: flex;
+    /* background-color: yellow; */
+    width: 218px;
+    padding-left: 0px;
+    margin-right: 5px;
+    margin-left: 2px;
+    padding-right: 2px;
+}
+
+.d-flex{
+    margin: 0px !important;
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+
+}
+
+.form-control{
+    display: flex !important;
+    border-radius: .15rem !important;
+    background-color: #fafafa !important;
+    border: 1px solid #ced4da !important;
+    height: 28px;
+    margin-right: 0px !important;
+    padding: 0px !important;
+    font-size: 14px !important;
+    text-align: center;
+}
+
+
+.div-icons{
+    width: 100%;
+    /* background-color: grey; */
+    display: flex;
+    justify-content: flex-end;
+    width: 360px;
+    margin-right: 10px;
+}
+
+.icons{
+    width: 199px;
+    height: 22px;
+    margin-right: 7px;
+    display: flex;
+    /* background-color: hotpink; */
+    justify-content: space-between;
+}
+
+.icon{
+    justify-content: space-between;
+}
+
+.img-perfil-nav{
+    border-radius: 100%;   
+    max-height: 25px;
+    max-width: 30px;
+    /* border: 1px solid slategray; */
+}
+
+
+.container-bio{
+    margin-top: 20px !important;
+    width: 935px !important;
+    
+}
+
+.div-img-perfil-bio{
+    /* margin-right: 30px; */
+    padding: 10px 20px 30px 63px !important;
+}
+
+.img-perfil-bio{
+    border-radius: 100%;
+    width: 150px;
+   
+    
+}
+
+.info-bio{
+    padding-top: 15px;
+    padding-left: 75px;
+}
+
+.tab-menu{
+    width: 935px !important;
+    display: flex;    
+    justify-content: center;
+    align-self: center;
+}
+
+/* .red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.gray{
+    background-color: gray;
+}
+ */
